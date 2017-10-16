@@ -1,9 +1,9 @@
 
-#GOL
+# GOL
 
 Conway's Game of Life, in about 35 lines of Python.
 
-##Features:
+## Features:
 
  - Adjustable grid size
  - Importable game class
